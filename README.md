@@ -10,6 +10,9 @@ Glad to see you here!
 *   ✉️  You can contact me at rimikabose100@gmail.com or send me a message on linkedin.
 *   ⚡  More about me: I love listening to R&B music, fostering dogs and hanging out in a tranquil place.
 
+<a href="https://www.github.com/RB100-git" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RB100-git?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 
 ### Skills
