@@ -7,7 +7,7 @@ Glad to see you here!
 *   🚀  I'm currently focusing on learning more about **Data Science** & looking for an opportunity to exploit my current skills and become a prominent **Data Scientist**.
 *   🧠  I'm currently improving my skills through more and more research of _**Machine Learning, Deep learning, Computer vision, NLP, Time Series Analysis**_ etc.
 *   🤝  I'm open to collaborate on more interesting open source projects of data science.
-*   ✉️  You can contact me at [rimikabose100@gmail.com] or send me a message on linkedin.
+*   ✉️  You can contact me at rimikabose100@gmail.com or send me a message on linkedin.
 *   ⚡  More about me: I love listening to R&B music, fostering dogs and hanging out in a tranquil place.
 
 
