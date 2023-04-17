@@ -10,18 +10,16 @@ Glad to see you here!
 *   ✉️  You can reach out to me on linkedin.
 *   ⚡  More about me: I love listening to R&B music, fostering dogs and hanging out in a tranquil place.
 
-<a href="https://www.github.com/RB100-git" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RB100-git?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-
-### Skills
+### Languages & Tools
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" width="36" height="36" alt="Power BI" /></a>
+<a href="https://palletsprojects.com/p/flask/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
 
